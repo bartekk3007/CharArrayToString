@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\CharArrayToString\bin\Debug\net8.0\CharArrayToString.exe
+C:\Users\48571\source\repos\CharArrayToString\bin\Debug\net8.0\CharArrayToString.deps.json
+C:\Users\48571\source\repos\CharArrayToString\bin\Debug\net8.0\CharArrayToString.runtimeconfig.json
+C:\Users\48571\source\repos\CharArrayToString\bin\Debug\net8.0\CharArrayToString.dll
+C:\Users\48571\source\repos\CharArrayToString\bin\Debug\net8.0\CharArrayToString.pdb
+C:\Users\48571\source\repos\CharArrayToString\obj\Debug\net8.0\CharArrayToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\CharArrayToString\obj\Debug\net8.0\CharArrayToString.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\CharArrayToString\obj\Debug\net8.0\CharArrayToString.AssemblyInfo.cs
+C:\Users\48571\source\repos\CharArrayToString\obj\Debug\net8.0\CharArrayToString.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\CharArrayToString\obj\Debug\net8.0\CharArrayToString.dll
+C:\Users\48571\source\repos\CharArrayToString\obj\Debug\net8.0\refint\CharArrayToString.dll
+C:\Users\48571\source\repos\CharArrayToString\obj\Debug\net8.0\CharArrayToString.pdb
+C:\Users\48571\source\repos\CharArrayToString\obj\Debug\net8.0\CharArrayToString.genruntimeconfig.cache
+C:\Users\48571\source\repos\CharArrayToString\obj\Debug\net8.0\ref\CharArrayToString.dll
